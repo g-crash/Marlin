@@ -595,7 +595,7 @@
  *
  * Enable this option for a probe connected to the Z Min endstop pin.
  */
-// #define Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN
+#define Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN
 
 // To reseach
 /**
@@ -618,7 +618,7 @@
  *
  */
 // enables the sensor to work on z-max
-#define Z_MIN_PROBE_ENDSTOP
+//#define Z_MIN_PROBE_ENDSTOP
 
 /**
  * Probe Type
