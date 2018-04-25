@@ -1,18 +1,8 @@
 <!--
 
-<<<<<<< HEAD
-Have you read Marlin's Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect. Click the "Code of conduct" link in the sidebar under "Helpful resources."
-
-Do you want to ask a question? Are you looking for support? Please don't post here. Instead please use one of the helpful community resources:
-
-- The RepRap.org Marlin Forum at http://forums.reprap.org/list.php?415
-- The "Marlin Firmware for 3D Printers" Facebook Group at https://www.facebook.com/groups/3Dtechtalk/
-- The "Marlin Firmware" Facebook Group at https://www.facebook.com/groups/1049718498464482/
-=======
 Have you read Marlin's Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/MarlinFirmware/Marlin/blob/master/.github/code_of_conduct.md
 
 Do you want to ask a question? Are you looking for support? Please don't post here. Instead please use the Marlin Firmware forum at http://forums.reprap.org/list.php?415 or the Marlin Facebook Group https://www.facebook.com/groups/1049718498464482/.
->>>>>>> upstream/1.1.x
 
 Before filing an issue be sure to test the 1.1 and/or 2.0 "bugfix" branches to see whether the issue is already addressed.
 
