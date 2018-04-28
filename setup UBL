@@ -19,4 +19,4 @@ G29 A           ; Activate the UBL System.
 M500            ; Save current setup. WARNING: UBL will be active at power up, before any `G28`.
 
 
-G26 B60 H205 F1.75 L0.2 S0.4  ; print a test
+G26 B60 H190 F1.75 L0.3 S0.4  ; print a test
