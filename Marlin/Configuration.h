@@ -495,9 +495,9 @@
   
   // TODO With new hotend
     // Tevo Tarantulla
-  #define  DEFAULT_Kp 24.63
-  #define  DEFAULT_Ki 2.16
-  #define  DEFAULT_Kd 70.12   
+  #define  DEFAULT_Kp 46.63
+  #define  DEFAULT_Ki 9.16
+  #define  DEFAULT_Kd 40.12   
 
 #endif // PIDTEMP
 
